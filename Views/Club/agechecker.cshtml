@@ -4,5 +4,12 @@
 
     <h2>Result</h2>
     <p> 
-        @ViewBag.ModelAboveEighteen
+        @if (int.Parse(ViewBag.ModelAgeOfCustomer) >= 18)
+        {
+            <p>Welcome to Halimat Club, What drink would you like to order</p>
+        }
+        else
+        {
+           <p> Sorry, You are not allowed here</p>
+        }
     </p>

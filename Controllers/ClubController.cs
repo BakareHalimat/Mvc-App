@@ -21,7 +21,7 @@ namespace Halimat.Controllers
        {
            var result = _repo.Checkage(model);
            ViewBag.ModelAgeOfCustomer = model.AgeOfCustomer;
-            
+           ViewBag.ModelBelowEighteen = "Sorry, You are not allowed here";
            ViewBag.ModelAboveEighteen = "Welcome to Halimat Club, What drink would you like to order";
            return View();
        } 

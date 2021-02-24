@@ -42,4 +42,3 @@ C:\Users\Kazeem\Halimat\obj\Debug\net5.0\Halimat.genruntimeconfig.cache
 C:\Users\Kazeem\Halimat\obj\Debug\net5.0\Halimat.csproj.CopyComplete
 C:\Users\Kazeem\Halimat\obj\Debug\net5.0\Razor\Views\Club\agechecker.cshtml.g.cs
 C:\Users\Kazeem\Halimat\obj\Debug\net5.0\Razor\Views\Club\Index.cshtml.g.cs
-C:\Users\Kazeem\Halimat\obj\Debug\net5.0\Razor\Views\Club\agechecker2.cshtml.g.cs
